@@ -4,4 +4,4 @@ services:
     buildCommand: cd Finance-App/backend && npm install && npm run build
    startCommand: cd Finance-App/backend && npm install && npm start
     env:
-       - path: backend/.env
+       - path: Finance-App/backend/.env
