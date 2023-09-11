@@ -2,7 +2,7 @@
 
 This repository serves as a personal collection of projects I've worked on, ranging from web applications to algorithms and more. It provides a centralized location to store and showcase my diverse portfolio, making it easier for others to explore and understand the range of work I've completed. By maintaining this repository, I can demonstrate my coding skills and growth over time, while also sharing my passion for technology and problem-solving with others.
 
-Finance-App | JavaScript, Node.js, React, CSS, HTML, MongoDB
+Expense-Tracker | JavaScript, Node.js, React, CSS, HTML, MongoDB
 
 Developed an application allowing users to track expenses and income efficiently.
 Utilized MongoDB and Node.js to manage financial data and perform queries for generating analytics.
