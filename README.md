@@ -20,7 +20,3 @@ Glossary Web | Java, HTML
 Designed a website that takes in a text file and displays their terms and definitions in alphabetical order.
 Used data structures such as Stacks, Queues, Maps, and Sets to sort and organize files.
 Utilized HTML to create formatted pages and links.
-
-RSSAggregator | Java, HTML
-
-Developed an RSSAggregator project leveraging XML parsing to extract and present RSS feeds in a user-friendly HTML format. Utilized an efficient XML tree-based approach for seamless data handling, ensuring a smooth user experience.
