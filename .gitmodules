@@ -1,0 +1,3 @@
+[submodule "ticketeller"]
+	path = ticketeller
+	url = https://github.com/group48WEB103/ticketeller.git
