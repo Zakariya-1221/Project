@@ -6,8 +6,23 @@ Expense-Tracker | JavaScript, Node.js, React, CSS, HTML, MongoDB
 
 Developed an application allowing users to track expenses and income efficiently.
 Utilized MongoDB and Node.js to manage financial data and perform queries for generating analytics.
-Implemented a secure backend server with API endpoints and access control to the frontend.
+Implemented a secure backend server with API endpoints and access control.
 Designed interactive features using React and JavaScript to perform real-time calculations and display financial insights.
+
+Ticketeller | React, Node, Express, TypeScript, PostgreSQL, Vercel
+
+Developed a ticket-selling application facilitating the purchase of bundles for multiple stadiums.
+Implemented a one-to-many relational database for efficient ticket management.
+Designed a RESTful API with CRUD operations for user shopping lists.
+Implemented a secure user authentication and registration system for customers.
+
+
+
+Glossary Web | Java, HTML 
+
+Designed a website that takes in a text file and displays their terms and definitions in alphabetical order.
+Used data structures such as Stacks, Queues, Maps, and Sets to sort and organize files.
+Utilized HTML to create formatted pages and links.
 
 Natural Number Calculator | Java, HTML
 
@@ -15,8 +30,3 @@ Created a Java and HTML-based Natural Number Calculator app with a graphical use
 Implemented the Model-View-Controller (MVC) design pattern for a clear separation of code.
 Enabled users to perform arithmetic operations on natural numbers efficiently and intuitively.
 
-Glossary Web | Java, HTML 
-
-Designed a website that takes in a text file and displays their terms and definitions in alphabetical order.
-Used data structures such as Stacks, Queues, Maps, and Sets to sort and organize files.
-Utilized HTML to create formatted pages and links.
